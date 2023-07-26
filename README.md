@@ -1,6 +1,5 @@
 
-
-- A captivating image gallery that brings images to life with a simple hover. 
+A captivating image gallery that brings images to life with a simple hover. 
 
 - A stack of images gracefully unfolds upon clicking, revealing a mesmerizing array of randomly listed pictures. 
 
