@@ -1,7 +1,7 @@
 
-A captivating image gallery that brings images to life with a simple hover. 
+A gallery that brings images to life with a simple hover. 
 
-- A stack of images gracefully unfolds upon clicking, revealing a mesmerizing array of randomly listed pictures. 
+- A stack of images gracefully unfolds upon clicking, revealing an array of randomly listed pictures. 
 
 - Set against a sleek black backdrop, each image unveils its true colors as you hover over it, unveiling a stunning visual display. 
 
